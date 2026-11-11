@@ -1,0 +1,13 @@
+
+# Skills Index
+
+A central directory of AI agent skills available in Skill Vault.
+
+Explore skills across different domains and find resources designed to help you complete specific tasks.
+
+#### Available Skills
+
+| Skill | Domain | Category | Description |
+|---|---|---|---|
+| [Reddit Review Audit](marketing/social-media/reddit-review-audit/SKILL.md) | Marketing | Social Media | Turns Reddit discussions about a product into actionable fixes, product page copy, disclosed replies, and catalog checks. |
+
