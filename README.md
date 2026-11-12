@@ -43,7 +43,7 @@ Skill Vault contains different types of resources:
 
 **Updates**: New resources are added regularly. I may refine, expand, or reorganize existing documentation as I learn more.
 
-**Maintainer**: Maintained by [Your Name](https://www.reddymohith.com/).
+**Maintainer**: Maintained by [Reddy Mohith](https://www.reddymohith.com/).
 
 
 **Explore. Learn. Document. Evolve.**
