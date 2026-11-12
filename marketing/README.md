@@ -6,8 +6,8 @@ This section documents concepts explored, strategies studied, processes develope
 
 Resources will be organized into relevant categories as the collection grows.
 
-
 | Resource | Category | Description | Type |
 |---|---|---|---|
 | [Reddit Review Audit](social-media/reddit-review-audit/SKILL.md) | Social Media | Turns Reddit discussions about a product into actionable fixes, product page copy, disclosed replies, and catalog checks. | Skill |
+| [Tracking & Opt-Out Audit](analytics-and-privacy/tracking-optout-audit/SKILL.md) | Analytics & Privacy | Audits website tracking, advertising pixels, cookie controls, opt-out signals, and privacy-policy promises, then produces actionable fix tickets. | Skill |
 
